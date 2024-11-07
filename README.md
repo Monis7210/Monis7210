@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Monis7210
+- 👋 Hi, I’m Monis
 - 👀 I’m interested in Computer technology
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
